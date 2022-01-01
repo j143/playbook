@@ -1,0 +1,17 @@
+- title: Activity Tracker
+  text: A handy Google Sheet to see and track your progress, distribute work, and view Calculator results.
+  arrow: external
+  action: Make a copy
+  link: /playbook/https://docs.google.com/spreadsheets/d/1grs0xAxEO5rxK3oAA2_uXPwUqtv_GmGfMrBcTXNUHY0/edit?usp=sharing
+
+- title: Bridge Engineering Path
+  text: All activities and items in a single, printable format.
+  arrow: download
+  action: Get PDF
+  link: /playbook/Path_Bridge_Engineering.pdf
+
+- title: Whiteboard
+  text: a shared whiteboard
+  arrow: external
+  action: View
+  link: https://jamboard.google.com/d/1XiKCnF_1Xq2H_dB1qdDW9-r47mtb-YhvmP_IVWzhdXU/viewer
